@@ -56,7 +56,9 @@ python consolidate_reports.py
 The consolidated report will be saved as consolidated_reports.pdf.
 Contributing
 
+
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide suggestions for improvement. Please follow the contribution guidelines.
 
 License
+
 This project is licensed under the MIT License.
